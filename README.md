@@ -1,3 +1,3 @@
 # sachin
 my first git repo
-pavani is my best friend
+Rani is my best friend
